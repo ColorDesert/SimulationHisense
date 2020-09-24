@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 默认主题色 -->
+    <color name="colorPrimary">#008577</color>
+    <!-- 默认深主题色 -->
+    <color name="colorPrimaryDark">#00574B</color>
+    <!-- 默认内容填充色 -->
+    <color name="colorAccent">#FF5712</color>
+    <!-- 默认内容填充色 -->
+    <color name="colorAccentSecondary">#FF9473</color>
+
+    <!-- 主标题色 -->
+    <color name="colorHeader">#FF5712</color>
+    <!-- 副标题色 -->
+    <color name="colorHeaderSecondary">#666666</color>
+    <!-- 深色标题 -->
+    <color name="colorHeaderDark">#000000</color>
+
+    <!-- 主文本色 -->
+    <color name="colorText">#293040</color>
+    <!-- 次文本色 -->
+    <color name="colorTextSecondary">#717787</color>
+    <!-- 占位文本色 -->
+    <color name="colorTextPlaceholder">#CCA1A6B3</color>
+
+    <!-- 失效色 -->
+    <color name="colorDisable">#d9d9d9</color>
+    <!-- 链接色 -->
+    <color name="colorLink">#1890ff</color>
+    <!-- 成功色 -->
+    <color name="colorSuccess">#52c41a</color>
+    <!-- 警告色 -->
+    <color name="colorWarning">#faad14</color>
+    <!-- 错误色 -->
+    <color name="colorError">#f5222d</color>
+
+    <!-- 边框色 -->
+    <color name="borderColor">#F0F0F0</color>
+    <color name="backgroundColor">#F5F5F9</color>
+    <!--适用于标题及正文,超链接用色-->
+    <color name="G1">#FF121212</color>
+    <color name="G1_six">#99121212</color>
+    <!--适用于副标题、正文补充、引用等文字用色-->
+    <color name="G2">#666666</color>
+    <!--适用于备注及页脚提示等文字用色-->
+    <color name="G3">#999999</color>
+    <!--适用于输入框内提示性文字用色-->
+    <color name="G4">#CCCCCC</color>
+    <!--适用于版块分割线用色-->
+    <color name="G5">#EBEBEB</color>
+    <!--适用于灰色背景色以及白色版块灰色间隔用色-->
+    <color name="G6">#F7F6F8</color>
+    <!--详情页 第一行标题颜色-->
+    <color name="G7">#FF2B303F</color>
+    <color name="G8">#A6000000</color>
+    <color name="G9">#FFF9F9F9</color>
+
+    <!--适用于按钮文字和图标、背景色等-->
+    <color name="W1">#FFFFFF</color>
+    <color name="W1_Six">#99FFFFFF</color>
+    <color name="W1_Eighty">#CCFFFFFF</color>
+    <!--适用于产品的主色，可点击图标、文字及按键等用色-->
+    <color name="O1">#FFFE6841</color>
+    <!--适用于主色点击后的颜色-->
+    <color name="O2">#FFE54A22</color>
+    <!--适用于表达“错误”的提示，按钮，图标等-->
+    <color name="R1">#FFFF4128</color>
+    <!--适用于主要主色的点缀色，辅助颜色-->
+    <color name="Y1">#FF957D5A</color>
+    <!--适用于表达“警告”，“处理中”的提示，按钮，图标色等-->
+    <color name="Y2">#FF9412</color>
+    <!--适用于表达“等待”的图标色等-->
+    <color name="Y3">#FFD112</color>
+    <!--适用于特殊字体颜色等-->
+    <color name="Y4">#FF81461C</color>
+    <!--适用于表达“成功”的提示，按钮，图标色等-->
+    <color name="S1">#58E23E</color>
+</resources>
